@@ -3,7 +3,6 @@
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 
-## ⭐ About Me
 - 🎯 I specialize in Web Development
 - 🔭 I’m currently working on [**school-shop**](https://github.com/kendacq/school-shop) - written in Laravel as a personal project
 - 🌱 I’m currently learning the **Laravel** framework
@@ -12,7 +11,7 @@
 </div>
 <div style="flex: 1;">
 
-## 🛠️ Tech Stack
+##
 
 **Languages & Frameworks**
 
@@ -35,14 +34,12 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendacq&layout=donut&theme=codeSTACKr)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kendacq&show_icons=true&theme=codeSTACKr)
 
----
-
-## 🌐 My Links
+##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kendacq)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](kendacq.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume_(WIP)-000000?logo=googledocs&logoColor=white&style=for-the-badge)](/)
