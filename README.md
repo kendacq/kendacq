@@ -41,8 +41,8 @@
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kendacq)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](kendacq.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/-Resume-000000?logo=googledocs&logoColor=white&style=for-the-badge)](kendacq.github.io/portfolio/resume)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://kendacq.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/-Resume-000000?logo=googledocs&logoColor=white&style=for-the-badge)](https://kendacq.github.io/portfolio/resume)
 
 ---
 
